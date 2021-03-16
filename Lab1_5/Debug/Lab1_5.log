@@ -1,0 +1,10 @@
+﻿  Pair.cpp
+  Rational.cpp
+  Source.cpp
+C:\Users\Admin\source\repos\Lab1_5\Lab1_5\Source.cpp(29,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Lab1_5\Lab1_5\Source.cpp(34,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Lab1_5\Lab1_5\Source.cpp(39,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Lab1_5\Lab1_5\Source.cpp(7,19): warning C4101: d: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\Admin\source\repos\Lab1_5\Lab1_5\Rational.cpp(45): warning C4715: Rational::ComparePairs: значение возвращается не при всех путях выполнения
+  Lab1_5.vcxproj -> C:\Users\Admin\source\repos\Lab1_5\Debug\Lab1_5.exe
